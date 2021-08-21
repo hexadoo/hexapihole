@@ -19,3 +19,6 @@ r6---sn-cxaaj5o5q5-tt1ez.googlevideo.com
 r7---sn-cxaaj5o5q5-tvfl.googlevideo.com
 r5---sn-cxaaj5o5q5-tvfl.googlevideo.com
 r5---sn-cxaaj5o5q5-tt1y.googlevideo.com
+r7---sn-cxaaj5o5q5-tt1e6.googlevideo.com
+r4---sn-cxaaj5o5q5-tt1e6.googlevideo.com
+r1---sn-cxaaj5o5q5-tt1ez.googlevideo.com
