@@ -10,6 +10,7 @@ r2---sn-cxaaj5o5q5-tt1y.googlevideo.com
 r2---sn-5uaezn66.googlevideo.com
 r2---sn-cxaaj5o5q5-tt1ez.googlevideo.com
 r4---sn-1gi7znes.googlevideo.com
+r4---sn-cxaaj5o5q5-tt1ez.googlevideo.com
 r8---sn-cxaaj5o5q5-tvfl.googlevideo.com
 r4---sn-cxaaj5o5q5-tvfl.googlevideo.com
 r6---sn-cxaaj5o5q5-tvfl.googlevideo.com
